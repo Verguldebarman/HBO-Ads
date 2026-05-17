@@ -15,3 +15,15 @@
 ||akm.amer-free.prd.media.max.com
 /^([^.]+\.)*dnitv\.com$/
 
+! HBO blocklist add-on for EU and EMEA
+! updated 17-05-2026
+||gcp.emea-free.prd.media.max.com^$important
+||gcp.eu.prd.media.max.com^$important
+||akm.emea-free.prd.media.max.com^
+||akm.eu.prd.media.max.com^
+||cf.eu.prd.media.max.com^$important
+||cf.emea-free.prd.media.max.com^$important
+
+! testing zone
+!||fly.emea-free.prd.media.max.com^
+!||fly.eu.prd.media.max.com^
